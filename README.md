@@ -73,5 +73,3 @@ Copier le code
 Contributions
 Contributions are welcome! If you have any ideas for improvement or new features, feel free to submit a pull request or open an issue.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.

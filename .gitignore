@@ -1,0 +1,6 @@
+# Ignore all .env files
+venv
+.venv
+__pycache__
+model
+.vscode
